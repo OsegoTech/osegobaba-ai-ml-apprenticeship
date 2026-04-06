@@ -71,7 +71,7 @@ def main():
         else:
             print(f"\n  ➜  {format_result(a)} {op} {format_result(b)} = {format_result(result)}\n")
 
-    print("\nGoodbye! 👋")
+    print("\nGooduubye! 👋")
 
 
 if __name__ == "__main__":
