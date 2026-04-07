@@ -36,7 +36,7 @@ def calculate(a, op, b):
 
 
 def format_result(n):
-    """Show integers without a decimal point (e.g. 6 not 6.0)."""
+    """Show the integers without a decimal point (e.g. 6 not 6.0)."""
     return int(n) if n == int(n) else n
 
 
