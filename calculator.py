@@ -1,7 +1,7 @@
 # Simple calculator
 
 # TODO: Prompt user for the first number
-# TODO: Prompt user for the second number
+# TODO: Prompt user for the second numbers
 # TODO: Prompt user for the operator (+, -, *, /)
 # TODO: Perform the calculation based on user input
 # TODO: Print the result
@@ -71,7 +71,7 @@ def main():
         else:
             print(f"\n  ➜  {format_result(a)} {op} {format_result(b)} = {format_result(result)}\n")
 
-    print("\nGooduuuuuuubye! 👋")
+    print("\nGooduuuuuubye! 👋")
 
 
 if __name__ == "__main__":
